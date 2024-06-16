@@ -37,7 +37,7 @@ The system's block diagram includes:
 - Buzzer for alerting the driver.
 
 ## Working Principle
-<align="center">![Circuit Connection of Transmitting](https://github.com/Dhanush-b/ANTI_SLEEP_ALARM_FOR_DRIVERS_WITH_ALCOHOL/assets/83268895/470abb0f-b2be-44bf-a774-5aaad919fc4f)
+<h1 align="center">![Circuit Connection of Transmitting](https://github.com/Dhanush-b/ANTI_SLEEP_ALARM_FOR_DRIVERS_WITH_ALCOHOL/assets/83268895/470abb0f-b2be-44bf-a774-5aaad919fc4f)</h1>
 *Figure 1: Circuit Connection of Transmitting*
 ![Circuit Connection of Receiving](https://github.com/Dhanush-b/ANTI_SLEEP_ALARM_FOR_DRIVERS_WITH_ALCOHOL/assets/83268895/9f048ae0-ea56-48c4-b1fc-99ee4e5355de)
 *Figure 2: Circuit Connection of Receiving*
