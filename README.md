@@ -38,9 +38,9 @@ The system's block diagram includes:
 
 ## Working Principle
 ![image](https://github.com/Dhanush-b/ANTI_SLEEP_ALARM_FOR_DRIVERS_WITH_ALCOHOL/assets/83268895/470abb0f-b2be-44bf-a774-5aaad919fc4f)
-Circuit Connection of Transmitting
+*Figure 1: Circuit Connection of Transmitting*
 ![image](https://github.com/Dhanush-b/ANTI_SLEEP_ALARM_FOR_DRIVERS_WITH_ALCOHOL/assets/83268895/9f048ae0-ea56-48c4-b1fc-99ee4e5355de)
-Circuit Connection of  Receiving
+*Figure 2: Circuit Connection of Receiving*
 
 1. **Eye Blink Detection**: The eye blink sensor continuously monitors the driver's eye blinks. If the blink frequency indicates drowsiness, the Arduino Nano processes this data.
    - **Alerting**: The buzzer is activated to alert the driver.
